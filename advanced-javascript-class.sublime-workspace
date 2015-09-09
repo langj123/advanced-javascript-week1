@@ -1,0 +1,997 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"reci",
+				"recipient"
+			],
+			[
+				"writ",
+				"writeln(${0:line})	Document"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"getElement",
+				"getElementsByTagName(${0:name})	Element"
+			],
+			[
+				"wri",
+				"writeln(${0:line})	Document"
+			],
+			[
+				"prev",
+				"previousSibling	Node"
+			],
+			[
+				"par",
+				"parentNode	Node"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"cl",
+				"click	Event"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"cons",
+				"console.log('$0');"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"ds",
+				"direction	Style CSS"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"padg",
+				"padding-left"
+			],
+			[
+				"con",
+				"content-container"
+			],
+			[
+				"al",
+				"alt-header2"
+			],
+			[
+				"alt-",
+				"alt-para"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"field",
+				"field_value"
+			],
+			[
+				"is",
+				"is_chrome"
+			],
+			[
+				"relate",
+				"related_query"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"ce",
+				"categories"
+			],
+			[
+				"curre",
+				"currentDay"
+			],
+			[
+				"m",
+				"my_posts"
+			],
+			[
+				"do",
+				"doOnLoad"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"lo",
+				"load"
+			],
+			[
+				"body",
+				"bodyElem"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"cli",
+				"clickBox"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bra",
+				"bread-nav"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"paddin-",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"main",
+				"main-nav"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"sec",
+				"secondOne"
+			],
+			[
+				"oa",
+				"original"
+			],
+			[
+				"o",
+				"output"
+			],
+			[
+				"new",
+				"newImageData"
+			],
+			[
+				"image",
+				"imageData"
+			],
+			[
+				"or",
+				"original"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"per",
+				"performance"
+			],
+			[
+				"sub",
+				"subBurgers"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"su",
+				"subBurgers"
+			],
+			[
+				"sam",
+				"sampleCharacters"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"samp",
+				"sampleNodes"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"fon-",
+				"font-weight"
+			],
+			[
+				"ms",
+				"maxCols-1"
+			],
+			[
+				"Uda",
+				"updateSolariTable"
+			],
+			[
+				"set",
+				"setTimeOut"
+			],
+			[
+				"curr",
+				"current_board"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"recur"
+			],
+			[
+				"updateSolar",
+				"updateSolariTable"
+			],
+			[
+				"update",
+				"update_row"
+			],
+			[
+				"Up",
+				"updateSolariTable"
+			],
+			[
+				"pric",
+				"priceFields"
+			],
+			[
+				"span",
+				"spanWarn"
+			],
+			[
+				"pri",
+				"priceFields"
+			],
+			[
+				"solari-me",
+				"solari-menu-item-1"
+			],
+			[
+				"solar",
+				"solari-menu-item-1"
+			],
+			[
+				"sol",
+				"solari_loop"
+			],
+			[
+				"i",
+				"if	if …"
+			],
+			[
+				"v",
+				"value_new"
+			],
+			[
+				"solari",
+				"solari-price-item"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"str_s",
+				"str_split"
+			],
+			[
+				"test",
+				"test_array"
+			],
+			[
+				"tes",
+				"test_array"
+			],
+			[
+				"num",
+				"num_fields"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"get_post",
+				"get_post_meta"
+			],
+			[
+				"wp_enqueue_s",
+				"wp_enqueue_script"
+			],
+			[
+				"me",
+				"meta_time_value"
+			],
+			[
+				"met",
+				"meta_time_key"
+			],
+			[
+				"pos",
+				"post_id"
+			],
+			[
+				"del",
+				"delete_post_meta"
+			],
+			[
+				"meta_time",
+				"meta_time_value"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"sma",
+				"smashing_post_class_meta_box"
+			],
+			[
+				"es",
+				"esc_html__"
+			],
+			[
+				"jquery",
+				"jquery-ui-datepicker"
+			],
+			[
+				"wp",
+				"wp_enqueue_style"
+			],
+			[
+				"add_met",
+				"add_meta_box"
+			],
+			[
+				"__",
+				"__FILE__"
+			],
+			[
+				"smashing_post_cl",
+				"smashing_post_class_nonce"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"star",
+				"startDate"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"t",
+				"translateX"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"li",
+				"list-style-position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: for",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy php",
+				"Set Syntax: PHP"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"set sytax htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax: jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jacoblang/Sites/PHP-Advanced/chp_2/index.php",
+		"/Users/jacoblang/Sites/PHP-Advanced/chp_1/sort.php",
+		"/Users/jacoblang/Sites/PHP-Advanced/phpvqp3_scripts/ch01/sort3.php",
+		"/Users/jacoblang/Sites/PHP-Advanced/phpvqp3_scripts/ch01/add_task2.php",
+		"/Users/jacoblang/Sites/PHP-Advanced/phpvqp3_scripts/ch01/add_task.php",
+		"/Users/jacoblang/Sites/PHP-Advanced/chp_1/view_tasks.php",
+		"/Users/jacoblang/Sites/PHP-Advanced/phpvqp3_scripts/ch01/view_tasks.php",
+		"/Users/jacoblang/Sites/PHP-Advanced/chp_1/add_task.php",
+		"/Users/jacoblang/Sites/PHP-Advanced/index.php",
+		"/Users/jacoblang/Sites/Scraper/index.php",
+		"/Users/jacoblang/Sites/OOP-PHP5/chapter-2/class.wordcounter.php",
+		"/Users/jacoblang/Sites/OOP-PHP5/chapter-2/words.txt",
+		"/Users/jacoblang/Sites/OOP-PHP5/chapter-2/index.php",
+		"/Users/jacoblang/Sites/Javascript-Good-Parts/program.js",
+		"/Users/jacoblang/Sites/Javascript-reinforcement/tic-tac-toe/css/style.css",
+		"/Users/jacoblang/Sites/Javascript-reinforcement/tic-tac-toe/js/game.js",
+		"/Users/jacoblang/Sites/Javascript-reinforcement/tic-tac-toe/index.html",
+		"/Users/jacoblang/Library/Application Support/Sublime Text 2/Packages/PHPUnit/PHPUnit.sublime-settings",
+		"/Users/jacoblang/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/jacoblang/Sites/Javascript-reinforcement/index.html",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/index.html",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/corn.html",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/javascript/css/zen.css",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/javascript/scraper.js",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/javascript/jsdom/jsdom.js",
+		"/Users/jacoblang/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/javascript/jsdom/jsdom.html",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/javascript/events/events.html",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/javascript/events/events.js",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/javascript/css/cssdemo.css",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/javascript/css/csstest.html",
+		"/Users/jacoblang/Sites/PHP-Ajax/index.html",
+		"/Users/jacoblang/Sites/PHP-Ajax/chp-2/scraper.php",
+		"/Users/jacoblang/Sites/PHP-Ajax/index.php",
+		"/Users/jacoblang/Desktop/bc.html",
+		"/Users/jacoblang/Desktop/portfolio.css",
+		"/Users/jacoblang/Desktop/portfolio.js",
+		"/Users/jacoblang/Downloads/e-licious-3.0/index-MAILCHIMP.html",
+		"/Users/jacoblang/Desktop/bc-current-advertising.html",
+		"/Users/jacoblang/Sites/Javascript-reinforcement/calculator/js/calculator-new.js",
+		"/Users/jacoblang/Sites/Wrox-Sample/wordpress/wp-content/themes/twentyfourteen/sidebar-content.php",
+		"/Users/jacoblang/Sites/Wrox-Sample/wordpress/wp-content/themes/twentyfourteen/content-page.php",
+		"/Users/jacoblang/Sites/Wrox-Sample/wordpress/wp-includes/post-template.php",
+		"/Users/jacoblang/Sites/Wrox-Sample/wordpress/wp-includes/functions.php",
+		"/Users/jacoblang/Sites/Wrox-Sample/wordpress/wp-includes/capabilities.php",
+		"/Users/jacoblang/Sites/Wrox-Sample/wordpress/wp-includes/general-template.php",
+		"/Applications/MAMP/htdocs/Final-Project-Javascript/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/Final-Project-Javascript/scss/_variables.scss",
+		"/Applications/MAMP/htdocs/Final-Project-Javascript/js/app.js",
+		"/Applications/MAMP/htdocs/Final-Project-Javascript/scss/_mixins.scss",
+		"/Applications/MAMP/htdocs/Final-Project-Javascript/scss/_base.scss",
+		"/Applications/MAMP/htdocs/Final-Project-Javascript/time-tracker.html",
+		"/Applications/MAMP/htdocs/Final-Project-Javascript/stylesheets/app.css",
+		"/Applications/MAMP/htdocs/Final-Project-Javascript/scss/app.scss",
+		"/Applications/MAMP/htdocs/Final-Javascript-Project/form.html",
+		"/Applications/MAMP/htdocs/Final-Javascript-Project/js/app.js",
+		"/Applications/MAMP/htdocs/Final-Javascript-Project/index.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment2/part3/css/style.css",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment2/part3/distance_education.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment2/part2/style.css",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment2/part2/deprecated.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment2/part2/news.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment2/part1/books.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment2/part1/books.css",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/CSCIE12_Spring2015_Assignment_1.pdf",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/week-4/CSCIE3ProjectUnit2A/js/hw2ArrayImageProcessingSetup.js",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/week-4/CSCIE3ProjectUnit2A/CSCIE3ProjectUnit2A.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/week-4/CSCIE3ProjectUnit2A/js/hw2ArrayImageProcessing.js",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/week-4/CSCIE3ProjectUnit2A/img/textimage.png",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/week-4/CSCIE3ProjectUnit2A/js/TESTING.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/week-4/CSCIE3ProjectUnit2A/js/TESTING-IMAGE.JS",
+		"/Users/jacoblang/Desktop/solari.js",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/solari-page.php",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/solari-board/js/solari.js",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/solari-board/example/sample.php",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/solari-board/example/fbsettings.py",
+		"/Users/jacoblang/Desktop/testing.js",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/solari-board/example/index.php",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/single-solari-menu-type.php",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/js/editor-helper.js",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/css/editor-helper.css",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/functions.php",
+		"/Applications/MAMP/htdocs/test-site/wp-content/themes/twentyfifteen/functions.php",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/template-solari.php",
+		"/Applications/MAMP/htdocs/solari-board/example/sample.php",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/solari-board/example/sample.js",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/solari-board/example/index-old.php",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/solari-board/example/postFogbugz.py",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/solari-board/example/postJsonp.py",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/page.php",
+		"/Applications/MAMP/htdocs/solari-press/wp-content/themes/solari-press/style.css",
+		"/Applications/MAMP/htdocs/solari-press/wp-config.php",
+		"/Applications/MAMP/htdocs/test-site/wp-content/themes/twentyfifteen/css/jquery.timepicker.css",
+		"/Applications/MAMP/htdocs/test-site/wp-content/themes/twentyfifteen/js/jquery.timepicker.min.js",
+		"/Applications/MAMP/htdocs/test-site/wp-content/themes/twentyfifteen/page.php",
+		"/Applications/MAMP/htdocs/test-site/wp-content/themes/twentyfifteen/single.php",
+		"/Applications/MAMP/htdocs/test-site/wp-content/themes/twentyfifteen/js/Field_Date.js",
+		"/Applications/MAMP/htdocs/test-site/wp-config.php",
+		"/Applications/MAMP/htdocs/test-site/wp-content/themes/twentyfifteen/index.php",
+		"/Applications/MAMP/htdocs/test-site/wp-content/themes/twentyfifteen/custom_css.css",
+		"/Applications/MAMP/htdocs/test-site/wp-content/themes/twentyfifteen/redirect.php",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/Book-Modern-Javascript/modern_javascript_scripts/ch06/js/event-me.js",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/Book-Modern-Javascript/modern_javascript_scripts/ch06/event.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/Book-Modern-Javascript/modern_javascript_scripts/ch06/js/event.js",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/week-4/CSCIE3ProjectUnit2A/js/hw2TwelveEvenFib.js",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Javascript-Class/Book-Modern-Javascript/modern_javascript_scripts/ch05/js/membership.js",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment1/lunch_special.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment1/harvard_guide.css",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment1/lunch_special.css",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment1/answers.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment1/harvard_guide_dce.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment1/us_census.html",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment1/js/table.js",
+		"/Applications/MAMP/htdocs/Harvard-Extension/Foudations-Web-Design/cscie12_assignment1/us_census.txt",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/category-CURRENT.php",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/category.php",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/functions.php",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/single.php",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/page.php",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/style.css",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/template-navigation.php",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/stylesheets/app.css",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/header.php",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/category-QUERY.php",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/scss/app.scss",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/index.php",
+		"/Applications/MAMP/htdocs/YTFG/wp-content/themes/foundation-ytfg 2/archive.php",
+		"/Applications/MAMP/htdocs/YTFG/.htaccess"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jacoblang/Sites/Wrox-Sample/wordpress/wp-includes",
+			"",
+			"/Users/jacoblang/Sites/Wrox-Sample/wordpress,*.php,/Users/jacoblang/Sites/Wrox-Sample/wordpress/wp-includes,*.php",
+			"/Users/jacoblang/Sites/Wrox-Sample/wordpress,*.php",
+			"/Users/jacoblang/Sites/Wrox-Sample/wordpress",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"),\n",
+			"'],\n",
+			"faq",
+			"myObject",
+			"value",
+			"document",
+			"previousSibling",
+			"i",
+			"innerHTML",
+			"argument",
+			"method_name",
+			"prototype",
+			"class_name",
+			"prototype",
+			"<td>",
+			"td",
+			"value",
+			"this",
+			"\"",
+			"array",
+			"Thursday",
+			"class",
+			"oType",
+			"statements_1",
+			"argument",
+			"method_name",
+			"var",
+			"val",
+			"33333333",
+			"33",
+			"    	\n",
+			"\n        	",
+			"blue",
+			"Blue",
+			"blue",
+			"the name",
+			"li",
+			"body",
+			"head",
+			"li",
+			"www",
+			"li",
+			"Chapter",
+			"li",
+			"35",
+			"travel",
+			" style=\"text-align: center; margin-top: 140px; margin-bottom: 140px; font-size: 30px;\"",
+			" style=\"position: relative; margin-bottom: 50px; overflow: hidden;\"",
+			" style=\"text-align: center; margin-bottom: 60px; margin-top: 90px; line-height: 50px; font-size: 55px; text-transform: uppercase;\"",
+			" style=\"position: absolute; color: #fff; text-align: center; width: 50%; text-transform: uppercase; transform: translateX(-50%); background: rgba(0,0,0,.5); left: 50%; top: 50%; opacity: 0;\"",
+			" style=\"position: relative; margin-bottom: 20px; overflow: hidden;\"",
+			" style=\"text-align: center; margin-bottom: 25px; margin-top: 90px; font-size: 75px; line-height: 50px;\"",
+			" style=\"text-align: center; margin-bottom: 25px; margin-top: 100px; font-size: 75px; line-height: 50px;\"",
+			" style=\"font-size: 40px;\"",
+			" style=\"text-align: center; margin-bottom: 90px; font-size: 30px;\"",
+			"style=\"text-align: center; margin-bottom: 90px; font-size: 30px;\"",
+			"jQuery",
+			"$",
+			"jQuery",
+			"</strong><br /><br />",
+			"</strong>",
+			"per month",
+			"over",
+			"margin-bottom: 120px;",
+			"margin-top: 120px;",
+			"</strong>",
+			"<strong>",
+			"margin-bottom: 120px;",
+			" opacity: .2;",
+			"font-size: 55px",
+			"font-size: 65px",
+			"font-size: 55px",
+			"font-size: 85px",
+			"font-size: 85px;",
+			"<strong>",
+			"margin-bottom: 65px;",
+			"margin-bottom: 20px;",
+			"margin-bottom: 15px;",
+			"            this.total = parseInt(this.val) + parseInt(this.total);\n",
+			"  ",
+			"function the_title",
+			"the_time",
+			"function is_super_admin",
+			"is_super_admin",
+			"function is_super_admin",
+			"function bloginfo",
+			"function is_super_admin",
+			"function is_super_admin\n\nWilliams, Brad, David Damstra, Hal Stern. Professional WordPress: Design and Development, 3rd Edition. Wrox, 2015-01-05. VitalBook file.\n",
+			"dick",
+			"\" ",
+			"/>\n",
+			"primary-color",
+			"buttons",
+			"input",
+			"button",
+			":hover",
+			"a01a21",
+			"64A1BA",
+			"E7F0F4",
+			"</time>",
+			"<time>",
+			"time>",
+			"time",
+			"Tue",
+			"warn",
+			".<",
+			"ns_source",
+			"PublicRSS20",
+			"wrapper",
+			"...</",
+			"}",
+			"background",
+			"img",
+			"jpg",
+			"canvas",
+			"\n    ",
+			"%;",
+			"dd",
+			"console",
+			"new_board",
+			"updateSolariTable",
+			"setInterval",
+			"new_board",
+			"updateSolariTable",
+			"solar-board-rows",
+			"add_rows",
+			";\n",
+			"object"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Green",
+			"p\np",
+			"",
+			"jQuery",
+			"$",
+			"</strong><br />",
+			"margin-bottom: 90px;",
+			"font-size: 40px",
+			"font-size: 55px",
+			"font-size: 75px;",
+			"font-size: 65px;",
+			"<strong style=\"font-size: 85px\">",
+			"margin-bottom: 120px;",
+			"margin-bottom: 65px;",
+			"margin-bottom: 20px;",
+			"",
+			"canvs",
+			"td",
+			"$jpg_image"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"tic",
+				"tic-tac-toe/index.html"
+			],
+			[
+				"css",
+				"chp-2/javascript/css/zen.css"
+			],
+			[
+				"zen",
+				"chp-2/javascript/css/zen.css"
+			],
+			[
+				"js",
+				"chp-2/javascript/scraper.js"
+			],
+			[
+				"lunch",
+				"lunch_special.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jacoblang/Sites/Javascript-reinforcement/javascript-reinforcement.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true
+}
